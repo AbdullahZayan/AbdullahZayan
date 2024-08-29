@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdullah Zayan</h1>
 <h3 align="center">Software Engineering Student with fundamental knowledge of software design, development, and testing. Seeking to utilize broad educational background with analytical, technical, and programming skills.</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
